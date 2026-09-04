@@ -308,6 +308,6 @@ Safinity は、家庭内の実体験から生まれた見守りシステムで�
 Safinity の詳細な運用ログ、改良記録、最新情報は
 X（旧Twitter）の TsAI Kobo アカウントにまとめています。
 
-**https://x.com/TsAI_kobo**
+**https://x.com/safinity_IOT**
 
 最後まで読んでくださってありがとうございました。
